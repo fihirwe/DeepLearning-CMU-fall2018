@@ -1,0 +1,9 @@
+README.md
+bin/cmudl
+cmudl/__init__.py
+cmudl.egg-info/PKG-INFO
+cmudl.egg-info/SOURCES.txt
+cmudl.egg-info/dependency_links.txt
+cmudl.egg-info/not-zip-safe
+cmudl.egg-info/requires.txt
+cmudl.egg-info/top_level.txt
